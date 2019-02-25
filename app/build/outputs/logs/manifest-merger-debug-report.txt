@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/215cdd490eb3e7f9aa482ba67b52e9c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/114e5c5b66910e631a74cce58f6c78eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aacab52a385403aad900ad2e54bbba1c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cb70eb4975f491463342eb87306f14d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a193c8bafc1dc4a82d980f971094075c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1917de4d0dffc62bba50774a05cf7b3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c71c0ce17f8f907047c54d9cdeacaac0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/626f6b0795b7b338c99c905938010339/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8882fe5521279d7c77d9321fb2ee9a37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f7ed0c5553a6ecf70f6d6af66504dbf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/da537f87d7dc3d021346f467c202daf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d54d280189f41cc5ef580b3b7363e067/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/876f670e40b646125cf5a4048d8e67ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/98d66d9b3be6a6e37a8aa64044304062/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/806663cc341694f8720b27cb4a26eb83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/98233a77d35e76df3a5b94de87beee08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4812bf39c79727ef5387fb7184095f27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/011235baef49b0c241329c2d0aca8eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f224474ca2df7c01a12cd76b54c2c78/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/784a485c5fc884d7ba849c6e9fb3fdf0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bdb5d47cb818ea1d6d3ee5f75ab8bf65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/05f56087851eaee487f9d5ed096567e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd2069b69431c659ae52ff677db8baa7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bf0d2d739e37fc22ce3b78c1a57551f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5784e126a16239b9b3da6b352d0ed6f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77d0b175d53f3137db4d55e70c7c68a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c78d68e06e358706bb858bf0de8efccd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ffb0c6a5831f33e65321835a6e24959/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/28f1a4d92c21e93c6362652c81cbcd72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0796af3b3d5ef4d295ea33ca84f39ad1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9da2d17fc763db71e82c773162a615c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/215cdd490eb3e7f9aa482ba67b52e9c0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/215cdd490eb3e7f9aa482ba67b52e9c0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aacab52a385403aad900ad2e54bbba1c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aacab52a385403aad900ad2e54bbba1c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f224474ca2df7c01a12cd76b54c2c78/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f224474ca2df7c01a12cd76b54c2c78/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/784a485c5fc884d7ba849c6e9fb3fdf0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/784a485c5fc884d7ba849c6e9fb3fdf0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f224474ca2df7c01a12cd76b54c2c78/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.interview.MainActivity
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/215cdd490eb3e7f9aa482ba67b52e9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/215cdd490eb3e7f9aa482ba67b52e9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/114e5c5b66910e631a74cce58f6c78eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/114e5c5b66910e631a74cce58f6c78eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aacab52a385403aad900ad2e54bbba1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aacab52a385403aad900ad2e54bbba1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cb70eb4975f491463342eb87306f14d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cb70eb4975f491463342eb87306f14d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a193c8bafc1dc4a82d980f971094075c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a193c8bafc1dc4a82d980f971094075c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1917de4d0dffc62bba50774a05cf7b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1917de4d0dffc62bba50774a05cf7b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c71c0ce17f8f907047c54d9cdeacaac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c71c0ce17f8f907047c54d9cdeacaac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/626f6b0795b7b338c99c905938010339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/626f6b0795b7b338c99c905938010339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8882fe5521279d7c77d9321fb2ee9a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8882fe5521279d7c77d9321fb2ee9a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f7ed0c5553a6ecf70f6d6af66504dbf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f7ed0c5553a6ecf70f6d6af66504dbf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/da537f87d7dc3d021346f467c202daf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/da537f87d7dc3d021346f467c202daf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d54d280189f41cc5ef580b3b7363e067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d54d280189f41cc5ef580b3b7363e067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/876f670e40b646125cf5a4048d8e67ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/876f670e40b646125cf5a4048d8e67ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/98d66d9b3be6a6e37a8aa64044304062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/98d66d9b3be6a6e37a8aa64044304062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/806663cc341694f8720b27cb4a26eb83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/806663cc341694f8720b27cb4a26eb83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/98233a77d35e76df3a5b94de87beee08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/98233a77d35e76df3a5b94de87beee08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4812bf39c79727ef5387fb7184095f27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4812bf39c79727ef5387fb7184095f27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/011235baef49b0c241329c2d0aca8eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/011235baef49b0c241329c2d0aca8eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f224474ca2df7c01a12cd76b54c2c78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2f224474ca2df7c01a12cd76b54c2c78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/784a485c5fc884d7ba849c6e9fb3fdf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/784a485c5fc884d7ba849c6e9fb3fdf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bdb5d47cb818ea1d6d3ee5f75ab8bf65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bdb5d47cb818ea1d6d3ee5f75ab8bf65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/05f56087851eaee487f9d5ed096567e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/05f56087851eaee487f9d5ed096567e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd2069b69431c659ae52ff677db8baa7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd2069b69431c659ae52ff677db8baa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bf0d2d739e37fc22ce3b78c1a57551f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bf0d2d739e37fc22ce3b78c1a57551f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5784e126a16239b9b3da6b352d0ed6f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5784e126a16239b9b3da6b352d0ed6f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77d0b175d53f3137db4d55e70c7c68a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/77d0b175d53f3137db4d55e70c7c68a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c78d68e06e358706bb858bf0de8efccd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c78d68e06e358706bb858bf0de8efccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ffb0c6a5831f33e65321835a6e24959/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9ffb0c6a5831f33e65321835a6e24959/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/28f1a4d92c21e93c6362652c81cbcd72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/28f1a4d92c21e93c6362652c81cbcd72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0796af3b3d5ef4d295ea33ca84f39ad1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0796af3b3d5ef4d295ea33ca84f39ad1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9da2d17fc763db71e82c773162a615c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Maggie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9da2d17fc763db71e82c773162a615c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Maggie/AndroidStudioProjects/interview2/app/src/main/AndroidManifest.xml
